@@ -1,10 +1,3 @@
-'''
-May 2017
-@author: Burkhard A. Meier
-'''
-#======================
-# imports
-#======================
 import tkinter as tk
 
 # Create instance

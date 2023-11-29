@@ -1,10 +1,3 @@
-'''
-May 2017
-@author: Burkhard A. Meier
-'''
-#======================
-# imports
-#======================
 import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext

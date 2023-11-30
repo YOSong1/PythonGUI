@@ -64,9 +64,9 @@ while(True):
     print('5. 정렬')
     print('0. 종료')
     print('메뉴 선택 : ', end='')
-    menu = input()
+    menu = int(input())
 
-    if menu == '0':
+    if menu == 0:
         break
 
     if menu == 1:
